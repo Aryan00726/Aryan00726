@@ -2,6 +2,10 @@
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | DSA Learner</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Learner;C+%7C+C%2B%2B+Programmer;Future+Software+Engineer;Learning+One+Problem+At+A+Time" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryan00726&label=Profile%20Views&color=0e75b6&style=flat" alt="Aryan00726" />
 </p>
 
@@ -60,11 +64,8 @@ A scientific calculation tool designed to perform various **mathematical and sci
 ## 📫 Connect With Me
 
 * 💻 GitHub: [https://github.com/Aryan00726](https://github.com/Aryan00726)
-* 🔗 LinkedIn: Aryan Sharma
+* 🔗 LinkedIn: *(add your link here)*
 
 ---
 
 ⭐ *I believe in consistent learning and improvement — one problem at a time.*
-
-
-
