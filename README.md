@@ -64,7 +64,7 @@ A scientific calculation tool designed to perform various **mathematical and sci
 ## 📫 Connect With Me
 
 * 💻 GitHub: [https://github.com/Aryan00726](https://github.com/Aryan00726)
-* 🔗 LinkedIn: *(add your link here)*
+
 
 ---
 
