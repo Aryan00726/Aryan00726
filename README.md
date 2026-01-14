@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Learner;C+%7C+C%2B%2B+Programmer;Future+Software+Engineer;Learning+One+Problem+At+A+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Data+Structures+%26+Algorithms+Learner;Full+Stack+Web+Developer;C+%7C+C%2B%2B+%7C+JavaScript+Programmer;Future+Software+Engineer;Learning+One+Problem+At+A+Time" />
 </p>
 
 <p align="center">
@@ -13,42 +13,81 @@
 
 ## 🚀 About Me
 
-I’m a **B.Tech 1st Year Computer Science student** with a strong interest in **Data Structures & Algorithms** and core programming concepts. I am currently focused on building a solid foundation in **C and C++**, with prior experience in **Python**.
+I’m a **B.Tech 1st Year Computer Science student** with a strong interest in **Data Structures & Algorithms** and **Full Stack Web Development**.  
+I enjoy building real-world projects that combine **problem-solving, logic, and clean UI**.
 
-💡 I aspire to become a **Software Engineer** who can solve real-world problems using efficient algorithms and clean, maintainable code.
+💡 My goal is to become a **Software Engineer** who can design scalable solutions using efficient algorithms and modern web technologies.
 
 ---
 
 ## 🛠️ Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,firebase,git,github,vercel" />
 </p>
 
-* **Programming Languages:** C, C++, Python
-* **Core Focus:** Data Structures & Algorithms
-* **Tools:** Git, GitHub
+### 💻 Programming Languages
+- C
+- C++
+- Python
+- JavaScript
+
+### 🌐 Web Development
+- HTML5
+- CSS3
+- React.js
+
+### 🔥 Backend & Cloud
+- Firebase (Auth, Database)
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Vercel (Deployment)
+
+### 🎯 Core Focus
+- Data Structures & Algorithms
+- Problem Solving
 
 ---
 
 ## 💼 Projects
 
+### 💰 Budget Buddy (Hackathon Project)
+
+A **smart personal finance management web application** designed to help users track expenses, plan savings, and manage budgets efficiently.
+
+**Key Features:**
+- User authentication using **Firebase**
+- Expense tracking with categorized spending
+- Budget planning & savings goals
+- Clean and responsive UI using **React**
+- Deployed on **Vercel**
+
+**Tech Stack:**  
+`React.js | JavaScript | Firebase | HTML | CSS | Vercel`
+
+---
+
 ### 🤖 ROBOMATH (Collaborative Project)
 
 A scientific calculation tool designed to perform various **mathematical and scientific computations** efficiently.
 
-* Built as a **collaborative team project**
-* Focused on logic building and problem-solving
-* Emphasizes accuracy and performance in calculations
+- Built as a **collaborative team project**
+- Strengthened logic-building and mathematical problem-solving
+- Focused on accuracy and performance
+
+**Tech Stack:**  
+`C / C++`
 
 ---
 
 ## 🎯 Current Goals
 
-* Strengthen DSA using C and C++
-* Improve problem-solving skills
-* Contribute to collaborative and open-source projects
-* Grow towards a professional **Software Engineer** role
+- Strengthen **DSA** using C and C++
+- Build more **real-world full stack projects**
+- Improve problem-solving & coding consistency
+- Contribute to **open-source and collaborative projects**
+- Grow towards a professional **Software Engineer** role
 
 ---
 
@@ -63,8 +102,7 @@ A scientific calculation tool designed to perform various **mathematical and sci
 
 ## 📫 Connect With Me
 
-* 💻 GitHub: [https://github.com/Aryan00726](https://github.com/Aryan00726)
-
+- 💻 GitHub: [https://github.com/Aryan00726](https://github.com/Aryan00726)
 
 ---
 
